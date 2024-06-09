@@ -17,3 +17,4 @@ Beer
 Sirup
 Caffe
 Wasser
+Wein
